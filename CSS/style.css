@@ -1,0 +1,112 @@
+body{
+    color: #DFF6FF;
+}
+h2{
+    padding: 3%;
+}
+h3{
+    text-align: center;
+    padding-bottom: 8%;
+}
+/* TITILE SECTION */
+.wmg_logo{
+    height: 5.5rem;
+    width: 5.5rem;
+}
+#title{
+    padding: 3% 15%;
+    background-color: #47B5FF;
+}
+
+.title{
+    font-family: sans-serif;
+    font-size:2.1rem;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 20% ;
+}
+.description{
+    margin-bottom: 2rem;
+    color: #fff;
+}
+.btnn{
+    margin: 0.5rem;
+
+}
+/* .peopleimg{
+    margin-left: 35%;
+
+} */
+
+/* ABOUT SECTION */
+#About{
+    font-family: 'Montserrat', sans-serif;
+    padding: 5% 0% ;
+
+}
+.aboutheading{
+    text-align: center;
+}
+.starvision{
+    padding: 3% 20%;
+    line-height: 2.2rem;
+}
+.wmgWhiteLogo{
+    height: 10rem;
+    
+}
+/* GALLARY SECTION */
+#gallary{
+    text-align: center;
+    background-color: #a3dcf3;
+    padding: 3% 15%;
+    
+}
+.gallarytitle{
+    font-family: 'Oleo Script', cursive;
+    font-size: 3rem;
+    margin-bottom: 3%;
+}
+.gallaryimg{
+    height: 60%;
+    width: 60%;
+}
+/* INSPIRATION SECTION */
+#inspiration{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+   
+    
+}
+.imgmargin{
+    margin:0 auto;
+    width: 60%;
+    
+} 
+/* COPYRIGHT SECTION */
+#copyright{
+    background-color: #a3dcf3;
+    text-align: center;
+}
+.copy{
+    margin-bottom: 0rem;
+    padding: 1%;
+}
+.WmgLightBlueLogo{
+    height: 8rem;
+    margin: 1%;
+}
+.icons{
+    color: black;
+    padding: 1%;
+}
+
+@media (max-width:755px){
+    .peopleimg{
+       height: 100%;
+       width: 100%;
+    
+    }
+  
+    
+}
